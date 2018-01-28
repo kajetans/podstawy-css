@@ -10,8 +10,12 @@ html {
       color: white;
 }
 
-#pixele {
+#piksele {
 width: 400px;
+}
+
+#em {
+  width: 20em;
 }
 
 body {
