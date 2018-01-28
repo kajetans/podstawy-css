@@ -30,6 +30,26 @@ width: 400px;
   width: 30rem;
 }
 
+#procenty {
+  width: 70%;
+}
+
+#vw {
+  width: 50vw;
+}
+
+#vh {
+  width: 80vh;
+}
+
+#vmin {
+  width: 60vmin;
+}
+
+#vmax {
+  width: 60vmax;
+}
+
 body {
   background-color: lightblue;
 }
