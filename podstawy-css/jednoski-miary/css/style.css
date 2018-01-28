@@ -14,8 +14,16 @@ html {
 width: 400px;
 }
 
+#container {
+  font-size: 30px;
+}
+
 #em {
   width: 20em;
+}
+
+#ex {
+  width: 25px;
 }
 
 body {
