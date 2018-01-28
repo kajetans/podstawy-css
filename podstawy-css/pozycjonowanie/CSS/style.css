@@ -23,13 +23,16 @@ div#kontener>div#drugi {
 }
 
 div#kontener-abs {
-  background-color: lime;
+  background-color: lightgreen;
+  position: fixed;
+  top: 20px;
+  left: 40px;
   padding: 10px;
 }
 
 div#kontener-abs>div#pierwszy-abs {
   background-color: yellow;
-  position: relative;
+  position: absolute;
   top: 30px;
   left: 50px;
 }
