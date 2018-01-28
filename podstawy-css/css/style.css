@@ -6,3 +6,11 @@ p{
   align-content: gray;
   color: #fff;
 }
+
+#selektor-po-id {
+    color: yellow;
+}
+
+.selektor-po-klasie {
+  color: violet;
+}
