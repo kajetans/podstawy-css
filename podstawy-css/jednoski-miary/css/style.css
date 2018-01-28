@@ -23,7 +23,11 @@ width: 400px;
 }
 
 #ex {
-  width: 25px;
+  width: 25ex;
+}
+
+#rem {
+  width: 30rem;
 }
 
 body {
