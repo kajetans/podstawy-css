@@ -3,7 +3,7 @@ body {
 }
 
 p {
-  align-content: gray;
+  background-color: gray;
   color: #fff;
 }
 
@@ -19,7 +19,7 @@ p {
   color: greenyellow;
 }
 
-#moniki>div>p {
+#moniki > div > p {
   color: lightcoral;
 }
 
